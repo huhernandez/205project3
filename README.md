@@ -1,17 +1,17 @@
-# 205project3
-project 3
+# CatDogDrum
 
-PURPOSE
+
+#PURPOSE
 
 Senses green neon- tipped drumsticks (or chopsticks) to play sounds on a virtual drum kit.
 
-PERIPHERAL REQUIREMENTS
+# PERIPHERAL REQUIREMENTS
 
 *Webcam
 *Speakers
 *Fuzzy green neon balls
 
-REQUIRED LIBRARIES
+# REQUIRED LIBRARIES
 
 Pygame
 Pyglet
@@ -22,14 +22,14 @@ pyaudio
 wave
 
 
-INSTALLING
+# INSTALLING
 
 Download required libraries
 
 Download and extract catdogdrum.zip from github repository here: https://github.com/huhernandez/205project3
 
 
-RUNNING
+# RUNNING
 
 Run terminal operation python catdogdrum.py from local directory
 
@@ -40,7 +40,7 @@ To load Cat and Dog sounds, press the 'M' key.
 Press the 'D' key to revert back to standard drum sounds.
 
 
-FUTURE WORK
+# FUTURE WORK
 
 Work on reducing lag time between sensing and sound playing
 
@@ -49,7 +49,7 @@ Record performances (audio only/ audio + video)
 have a play along feature, where the boxes light up and you have to hit them (Dance Dance Revolution type of game)
 
 
-MAINTAINERS
+# MAINTAINERS
 
 Abraham DeAlba- https://github.com/abe0128
 
@@ -57,4 +57,4 @@ Ravinder Singh- https://github.com/ambaniverma
 
 Hugo Hernandez- https://github.com/huhernandez
 
-Sebastian Magana
+Sebastian Magana- https://github.com/smagana19
